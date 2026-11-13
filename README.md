@@ -26,7 +26,7 @@ I help organizations find the manual, error-prone paperwork steps in their work 
 | Project | What it shows |
 |---|---|
 | [va-combined-rating-calculator](https://github.com/BCryptique/va-combined-rating-calculator) | A tested JavaScript library for 38 CFR 4.25 and 4.26 (the VA combined rating rules). I checked it against the published VA table. Shows: reading a regulation, turning it into code, and testing it. |
-| [windows-automation-toolkit](https://github.com/BCryptique/windows-automation-toolkit) | Windows Task Scheduler jobs: a daily Canvas-to-calendar sync and an encrypted nightly backup. Shows: unattended automation, secrets kept out of code, and recovery. |
+| windows-automation-toolkit (private; code walkthrough on request) | Windows Task Scheduler jobs: a daily Canvas-to-calendar sync and an encrypted nightly backup. Shows: unattended automation, secrets kept out of code, and recovery. |
 | Benefits Navigator (hackathon entry) | An offline app that helps a social worker match a veteran or resident to programs, with a form number and a law citation for each item. Shows: structured research, source checking, and plain-language design. |
 | Open source: [Rosie](https://github.com/Nill-os/rosie) | I set up a local AI assistant on Windows 11, then found and reported 10 Windows compatibility problems and wrote fixes for several. Shows: bug reports that a maintainer can act on. |
 
